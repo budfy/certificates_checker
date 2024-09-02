@@ -5,7 +5,7 @@ const cert_data = {
   "s_name": "Абрамова ",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190802:
  {
@@ -13,7 +13,7 @@ const cert_data = {
   "s_name": "Алещенко ",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190803:
  {
@@ -21,7 +21,7 @@ const cert_data = {
   "s_name": "Васильєва",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190804:
  {
@@ -29,7 +29,7 @@ const cert_data = {
   "s_name": "Волік",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190805:
  {
@@ -37,7 +37,7 @@ const cert_data = {
   "s_name": "Дирда ",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190806:
  {
@@ -45,7 +45,7 @@ const cert_data = {
   "s_name": "Зюзь",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190807:
  {
@@ -53,7 +53,7 @@ const cert_data = {
   "s_name": "Лінговський",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190808:
  {
@@ -61,7 +61,7 @@ const cert_data = {
   "s_name": "Ревнюк ",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190809:
  {
@@ -69,7 +69,7 @@ const cert_data = {
   "s_name": "Самофалова ",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190810:
  {
@@ -77,7 +77,7 @@ const cert_data = {
   "s_name": "Сильченко",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190811:
  {
@@ -85,7 +85,7 @@ const cert_data = {
   "s_name": "Сіліченко ",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190812:
  {
@@ -93,7 +93,7 @@ const cert_data = {
   "s_name": "Сорокіна",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190813:
  {
@@ -101,7 +101,7 @@ const cert_data = {
   "s_name": "Троцковець ",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  },
 190814:
  {
@@ -109,7 +109,7 @@ const cert_data = {
   "s_name": "Яворська",
   "course_title": "Техніки арт-терапії",
   "course_length": 12,
-  "course_date": "08\/19\/2024"
+  "course_date": "19.08.2024"
  }
 
 };
